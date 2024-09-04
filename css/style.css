@@ -1,0 +1,40 @@
+.banner{
+    background: url(../img/banner.PNG) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.about{
+    background: url(../img/about.PNG) center center no-repeat;
+    background-size: contain;
+   height: 100vh;
+   
+}
+.services{
+    background: url(../img/servies.PNG) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.skill{
+    background: url(../img/skils.PNG) center center no-repeat;
+    background-size: contain;
+    height: 100vh;
+}
+.work{
+    background: url(../img/work.PNG) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.testimonials{
+    background: url(../img/testimnials.PNG) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.contact{
+    background: url(../img/get-in-touch.PNG) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.fotter{
+    background: #e03019;
+   
+}
